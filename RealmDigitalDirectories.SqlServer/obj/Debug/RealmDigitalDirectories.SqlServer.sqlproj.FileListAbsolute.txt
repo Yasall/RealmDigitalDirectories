@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\bin\Debug\RealmDigitalDirectories.SqlServer.dacpac
+C:\Users\Admin\source\repos\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\bin\Debug\RealmDigitalDirectories.SqlServer.dll
+C:\Users\Admin\source\repos\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\bin\Debug\RealmDigitalDirectories.SqlServer.pdb
+C:\Users\Admin\source\repos\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\obj\Debug\RealmDigitalDirectories.SqlServer.dll
+C:\Users\Admin\source\repos\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\obj\Debug\RealmDigitalDirectories.SqlServer.pdb
+C:\Users\Snake\Documents\RealmDigitalDirectories\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\bin\Debug\RealmDigitalDirectories.SqlServer.dacpac
+C:\Users\Snake\Documents\RealmDigitalDirectories\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\bin\Debug\RealmDigitalDirectories.SqlServer.dll
+C:\Users\Snake\Documents\RealmDigitalDirectories\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\bin\Debug\RealmDigitalDirectories.SqlServer.pdb
+C:\Users\Snake\Documents\RealmDigitalDirectories\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\obj\Debug\RealmDigitalDirectories.SqlServer.sqlprojAssemblyReference.cache
+C:\Users\Snake\Documents\RealmDigitalDirectories\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\obj\Debug\RealmDigitalDirectories.SqlServer.dll
+C:\Users\Snake\Documents\RealmDigitalDirectories\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\obj\Debug\RealmDigitalDirectories.SqlServer.pdb
+C:\Users\Snake\Documents\RealmDigitalDirectories\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\obj\Debug\Model.xml
+C:\Users\Snake\Documents\RealmDigitalDirectories\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\obj\Debug\refactor.xml
+C:\Users\Snake\Documents\RealmDigitalDirectories\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\obj\Debug\postdeploy.sql
+C:\Users\Snake\Documents\RealmDigitalDirectories\RealmDigitalDirectories\RealmDigitalDirectories.SqlServer\obj\Debug\predeploy.sql
